@@ -1,0 +1,9 @@
+
+__pycache__/cluster_boxes.cpython-38.pyc
+__pycache__/detect.cpython-38.pyc
+__pycache__/union_objects.cpython-38.pyc
+exp/weights/best.pt
+model/__pycache__/utils.cpython-38.pyc
+model/__pycache__/utils.cpython-39.pyc
+model/detected.zip
+model/efficientnet_b0.pt
